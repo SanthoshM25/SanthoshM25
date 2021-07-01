@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SanthoshM25
-- 👀 I’m interested in frontend web development
+- 👀 I’m interested in web development
 - 🌱 I’m currently learning React
 - 💌 Twitter - @santhoshm2504
 
