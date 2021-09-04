@@ -77,8 +77,12 @@ I ♥️ to
  
 <hr>
   
-![Loganathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=santhoshm25&theme=dark&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=santhoshm25&layout=compact)](https://github.com/logan0501/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=santhoshm25&theme=dark&show_icons=true)
+![Github strak](https://github-readme-streak-stats.herokuapp.com/?user=santhoshm25&theme=dark)
+<br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=santhoshm25&layout=compact)](https://github.com/santhoshm25/github-readme-stats)
+
+<hr>
 
 <div align="center">
 	Show some ❤️ by starring some of the repositories!
