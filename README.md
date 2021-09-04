@@ -1,7 +1,7 @@
 # Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I am Santhosh 
 <hr>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=logan0501.visitorid&username=logan0501&style=plastic)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=santhoshm25.visitorid&username=santhoshm25&style=plastic)
 
 I ♥️ to 
   - Design✒️
