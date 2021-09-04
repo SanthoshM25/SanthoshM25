@@ -12,11 +12,10 @@ I ♥️ to
 - 👯 I’m open for collaboration on Web development Projects, Cross Platform Mobile Applications and UI/UX Designing.
 - 💬 Ask me about development and problem solving.
 - 📫 How to reach me: 
-
-    [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge)](https://santhoshm.netlify.app/)    
+  
     [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santhosh-mohan-612898190/)
     [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/santhoshm2504)
-    <a href="mailto:santhoshm2504@gmail.com" target="__blank">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+    [![Portfolio](https://img.shields.io/badge/🌐Portfolio-FF5722?style=for-the-badge)](https://santhoshm.netlify.app/)  
 
 <hr>
 
