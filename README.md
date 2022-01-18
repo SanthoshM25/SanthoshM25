@@ -3,9 +3,7 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=santhoshm25.visitorid&username=santhoshm25&style=plastic)
 
-I ♥️ to 
-  - Design✒️
-  - Code💻 
+I ♥️ to Code💻 
 
 <hr>
 
@@ -67,12 +65,6 @@ I ♥️ to
   ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
   ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-  
->Designing Tools
-
-  ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white)
-  ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
-  ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
  
  
 <hr>
